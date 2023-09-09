@@ -1,0 +1,17 @@
+.btn-submit {
+  background-color: var(--orange);
+}
+.btn-submit:hover {
+  background-color: var(--white);
+  transition: all 0.15sec ease-in-out;
+  color: var(--orange);
+}
+.btn-number {
+  transition: all 0.3sec ease-in-out;
+}
+.btn-number:focus {
+  background-color: var(--light-grey);
+}
+.btn-number:hover {
+  background-color: var(--orange);
+}
